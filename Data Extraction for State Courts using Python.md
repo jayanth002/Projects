@@ -26,6 +26,11 @@ Successfully automated the data extraction process from multiple state court web
 Enabled legal professionals to access a centralized database of case data, promoting efficient legal research and analysis.
 
 **PYTHON POC SOURCE CODES**
+
+
 ![image](https://github.com/jayanth002/Projects/assets/32224793/1f9544df-32f7-4a51-94eb-57da5221d21c)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/006f270b-4551-4c09-addb-ce7afe869791)
+
 
 
