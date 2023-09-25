@@ -15,13 +15,6 @@ Investigated correlations between breakdown occurrences and external factors suc
 Identified common root causes of breakdowns, such as power failures, signaling issues, and track obstructions, using a combination of text mining techniques and manual categorization.
 Conducted a deep dive into specific incidents to understand contributing factors and potential systemic weaknesses.
 
-**Time-Series Analysis:**
-Utilized time-series analysis to uncover long-term trends and seasonality in breakdown occurrences. Examined if there were specific periods or seasons when breakdowns were more frequent.
-
-**Predictive Modeling:**
-Developed a predictive model using machine learning algorithms to forecast breakdown occurrences based on historical data and external factors like maintenance schedules and public holidays.
-Evaluated the model's performance using appropriate metrics and validated its accuracy for short-term predictions.
-
 **Results and Recommendations:**
 Identified specific train lines, stations, and times of the day that experienced higher breakdown frequencies. This insight informed targeted maintenance efforts.
 Uncovered correlations between breakdowns and external factors, contributing to better incident preparedness during adverse conditions.
