@@ -25,5 +25,7 @@ Prepared clear and comprehensive documentation outlining the project's purpose, 
 Successfully automated the data extraction process from multiple state court websites, significantly reducing the time and effort required for legal researchers to collect case information.
 Enabled legal professionals to access a centralized database of case data, promoting efficient legal research and analysis.
 
+**PYTHON POC SOURCE CODES**
+![image](https://github.com/jayanth002/Projects/assets/32224793/1f9544df-32f7-4a51-94eb-57da5221d21c)
 
 
