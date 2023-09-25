@@ -33,4 +33,14 @@ Enabled legal professionals to access a centralized database of case data, promo
 ![image](https://github.com/jayanth002/Projects/assets/32224793/006f270b-4551-4c09-addb-ce7afe869791)
 
 
+![image](https://github.com/jayanth002/Projects/assets/32224793/06178b02-6fbe-4f33-abf8-083d7fd31912)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/3beaeba3-9c9b-42c4-8ce2-715061269756)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/f26028e0-1188-4737-9179-df1f6fd66322)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/fd7a48af-5968-4867-9475-6e6a35d6c107)
+
+
 
