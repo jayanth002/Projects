@@ -62,6 +62,10 @@ Uncovered correlations between breakdowns and external factors, contributing to 
 ![image](https://github.com/jayanth002/Projects/assets/32224793/25a6490d-a32b-4005-bbfd-43c6915a4c99)
 
 
+![image](https://github.com/jayanth002/Projects/assets/32224793/81278d5c-8c9f-41bd-9b7e-3305d9f9e14f)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/6ba9331c-8bab-4f22-a74f-4f1ec36a7c20)
+
 
 
 
