@@ -25,3 +25,17 @@ Evaluated the model's performance using appropriate metrics and validated its ac
 **Results and Recommendations:**
 Identified specific train lines, stations, and times of the day that experienced higher breakdown frequencies. This insight informed targeted maintenance efforts.
 Uncovered correlations between breakdowns and external factors, contributing to better incident preparedness during adverse conditions.
+
+**Python Source Code**
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/ab1833b8-cb48-4d6c-b8aa-72cd935d5109)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/1d7506a1-9b87-42ef-b535-bed99a5b8114)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/feec21e2-058c-4feb-914d-62c71f1b50f4)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/132f5c1f-f087-4366-a0ed-f06717fe8f19)
+
+
+
