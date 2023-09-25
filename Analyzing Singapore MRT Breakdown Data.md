@@ -37,5 +37,33 @@ Uncovered correlations between breakdowns and external factors, contributing to 
 
 ![image](https://github.com/jayanth002/Projects/assets/32224793/132f5c1f-f087-4366-a0ed-f06717fe8f19)
 
+![image](https://github.com/jayanth002/Projects/assets/32224793/a68232ed-aa1f-4b7a-b0ac-f062344b337c)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/5b8ae4ac-b7e8-4e44-a38b-d86f9671d80e)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/1f1aa3a3-6fb0-47d3-82c9-ba4bcb332774)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/4400ca02-a187-404c-8193-90b85ff48118)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/5b7de84c-7165-43bc-b755-273978aba2ae)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/da5c565d-25a3-47aa-8935-30c97ef002f5)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/14faaa58-6865-44a4-82f0-39f4df60a049)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/bc8c4964-3211-4894-9efb-2c66be601652)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/c2cdc9e9-927a-4fb8-889b-781d9e0fba29)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/25a6490d-a32b-4005-bbfd-43c6915a4c99)
+
+
+
+
+
 
 
