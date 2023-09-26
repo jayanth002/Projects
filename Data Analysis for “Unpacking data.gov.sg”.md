@@ -238,8 +238,24 @@ information in the Singapore open data portal.
 **6 Appendices**
 **6.1 Appendix A – List of figures about the statistics of frequency of the words and the associated terms**
 
-**Economy **
+**Economy**
 
 ![image](https://github.com/jayanth002/Projects/assets/32224793/420395aa-2813-47c0-844c-04b3704b1292)
 
+![image](https://github.com/jayanth002/Projects/assets/32224793/a61829bd-504f-4976-8991-a10fd3fd680a)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/1c11e4fd-6948-4777-802d-076e57f14eac)
+
+**Education**
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/83d4d4c8-66ab-40e0-a9ee-b143472e2de0)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/6052c489-7927-4b86-af2a-e8d58cb20524)
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/8224bd09-3ee8-41f3-bd7f-02dd111e9882)
+
+
+**Environment**
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/10e08acc-70b8-476e-9469-7cc0ddf90740)
 
