@@ -1,6 +1,6 @@
 # Data Analysis for “Unpacking data.gov.sg” Research Project under Prof. Hallam Stevens at NTU University.
 
-1 Introduction
+**1 Introduction**
 The open data framework is a boon for the citizens, researchers and policy makers to redefine the
 model of governance and innovation. Not surprisingly, the Singapore open data
 portal(https://data.gov.sg/), has lot to offer to the information seekers. The data in the portal is
@@ -8,15 +8,15 @@ subdivided into 9 categories such as economy, education, environment, finance, h
 infrastructure, society, technology and transport. The purpose of the research is to evaluate the core
 parameters about the formation of the data in the Singapore Data Portal and its results.
 
-2 Research Questions
+**2 Research Questions**
 To address the fundamental core of a research project, the following questions are reproduced to
 determine the approach to analyze and report the outcome.
- How much data is there? How many datasets? What is the size of each?
- How is the data categorized?
- How much data is there in each category?
- What are the sources of the data?
- How much data comes from each source?
- What topics does the data cover according to the keyword analysis?
+- How much data is there? How many datasets? What is the size of each?
+- How is the data categorized?
+- How much data is there in each category?
+- What are the sources of the data?
+- How much data comes from each source?
+- What topics does the data cover according to the keyword analysis?
 
 3 Methodology
 3.1 Dataset Collection and Characteristics
@@ -47,6 +47,7 @@ main source of performing the operation including the formation of term document
 4 Analysis
 This section provides insights about the patterns involved in both individual and consolidated data,
 respectively.
+
 4.1 Individual Category
 This subsection provides pattern involved in the data for each category such as education,
 environment, finance, technology, transport, economy, health, infrastructure and society. Further the
