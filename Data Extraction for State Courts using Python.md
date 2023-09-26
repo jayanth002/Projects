@@ -31,7 +31,7 @@ Throughout the entire research, several challenges were encountered and had to b
 
 In conclusion, rule-based information extraction methodology built on RegEx-pattern matching has the potential to correctly identify and extract key named entity values. However, it is also limited by textual patterns which might differ in charge sheets under different Penal Sections. The research study conducted, prove the viability of the method but only under limited circumstances. For a fully extensible and wide-ranging method to automate the extraction of information from charge sheets, the rule-based extraction methodology must be complemented by other methods and techniques. 
 
-** PROBABLE FUTURE IMPROVEMENTS & ALTERNATIVES:**
+**PROBABLE FUTURE IMPROVEMENTS & ALTERNATIVES:**
 
 The deployment and use of only RegEx in this research proved to be rather restrictive; in that, data extraction capabilities are bounded by the strengths of RegEx which are primarily centred on pattern matching (Varadarajan, Kasravi & Feldman, n.d.). In most scenarios, unstructured textual information does not follow a clear pattern. In addition, charge sheets are written by different individuals with no strict style or structure in place; this introduces additional complexities and patterns. Catering for all possible patterns might not be a scalable or ideal solution for large problem set containing numerous pattern possibilities. Thus, in view of the shortcomings in the ‘vanilla’ RegEx approach, some additional measures our team proposes to overcome the weaknesses of RegEx could be,
  
