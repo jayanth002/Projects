@@ -18,8 +18,8 @@ determine the approach to analyze and report the outcome.
 - How much data comes from each source?
 - What topics does the data cover according to the keyword analysis?
 
-3 Methodology
-3.1 Dataset Collection and Characteristics
+**3 Methodology**
+**3.1 Dataset Collection and Characteristics**
 The several datasets are positioned in each category in the data portal, while among the data
 elements in each category, the “About this dataset” element covers most of the research questions,
 respectively. The respective elements are extracted using different form of technique includes using
@@ -33,7 +33,7 @@ formatted as in Table 2.
 ![image](https://github.com/jayanth002/Projects/assets/32224793/b18e1321-7f05-4872-92a7-e2355a84b6ab)
 
 
-3.2 Data Preprocessing
+**3.2 Data Preprocessing**
 Further to analyze the extracted element, the R programming language has been executed to analyze
 the word frequency and associated terms. In this process of determining the accurate word frequency
 in each category of the data, the following data preprocessing actions has been performed such as
@@ -44,15 +44,16 @@ main source of performing the operation including the formation of term document
 
 ![image](https://github.com/jayanth002/Projects/assets/32224793/1de2b932-ce57-40e3-9260-542c0f6a1d35)
 
-4 Analysis
+**4 Analysis**
 This section provides insights about the patterns involved in both individual and consolidated data,
 respectively.
 
-4.1 Individual Category
+**4.1 Individual Category**
 This subsection provides pattern involved in the data for each category such as education,
 environment, finance, technology, transport, economy, health, infrastructure and society. Further the
 keyword analysis for each category is covered under Appendix A.
-4.1.1 Economy
+
+**4.1.1 Economy**
 The term “economy” is associated with many aspects including the production and consumption of
 materials and services and the cash flow. Refering to Appendix A- Fig 1, in summary, the keyword –
 data and survey are more prominently exists in the dataset description about the economic aspects
@@ -60,22 +61,23 @@ of the Singapore region. Appendix A – Fig 2, provides the visualization of the
 economy dataset. Further more, Appendix A – Fig 3, portray information about associated terms to
 word – survey. The survey method has been predominatly employed to obtain necessary information
 about the economic prospects of the country. The wide range of surveys has been executed such as
- Annual survey to gather information about the structure and the performance of the sectors
-including retail, transport, health services, etc.
- Business expectation survery to obtain immediate future of the firms in the services sector.
- Labour Market Survey to estimate the job vacancies, redundant positions, employee strength
-in the company of atleast 25 employees,etc.
- Labour force survey to provides insights about the employment change in the industry,
-percentage of employed and unemployed workforce, etc.
- Survey of financial structure and operations of the companies to estimate the equity ratio,
-liquidity, etc., of the companies.
- Survey of foreign equity investment and foreign debt and financial derivatives transactions
-to calculate the return on the foreign direct investment.
- Survey of Singapores investment abroad to calculate the percentage of Singapore investor in
-the overseas enterprise.
- Etc. 
 
-4.1.2 Education
+- Annual survey to gather information about the structure and the performance of the sectors
+including retail, transport, health services, etc.
+- Business expectation survery to obtain immediate future of the firms in the services sector.
+- Labour Market Survey to estimate the job vacancies, redundant positions, employee strength
+in the company of atleast 25 employees,etc.
+- Labour force survey to provides insights about the employment change in the industry,
+percentage of employed and unemployed workforce, etc.
+- Survey of financial structure and operations of the companies to estimate the equity ratio,
+liquidity, etc., of the companies.
+- Survey of foreign equity investment and foreign debt and financial derivatives transactions
+to calculate the return on the foreign direct investment.
+- Survey of Singapores investment abroad to calculate the percentage of Singapore investor in
+the overseas enterprise.
+- Etc. 
+
+**4.1.2 Education**
 The education system in Singapore has 4 core stages such as Pre-School, Primary, Secondary and Post
 Secondary. The Pre-School education is managed by MOE Kindergartens for the four to six years old
 chidren. The Primary school is a compulsory 6 years education, which upon completion, the students
@@ -89,81 +91,83 @@ Appendix A – Fig 6, subjects remain the top associated term to the keyword stu
 potential terms such as primary, o level, etc.
 Refering to the keywords and the associated terms,in summary, the datasets in education category
 describe key information as follows:
- Performance of the students in the national level exams such as PSLE and GCE.
- Available courses, enrolment figures, etc in kindergartens, primary, secondary and in
+- Performance of the students in the national level exams such as PSLE and GCE.
+- Available courses, enrolment figures, etc in kindergartens, primary, secondary and in
 teritiary institutions.
- Student and teacher ratio.
- School directory information about all schools.
- Etc. 
+- Student and teacher ratio.
+- School directory information about all schools.
+- Etc. 
 
-4.1.3 Environment
+**4.1.3 Environment**
 The necessary environment related information is captured in the Singapore open data portal.
 Referring to the datasets, as per the Appendix A – Fig 7 and 8, the most frequent word remains to be
 waste. Furthermore, as per the Appendix A – Fig 9 the associated terms to the word waste such as
 landfilled, tonnes, generated, etc., covers under the statistics of the solid waste management in the
 datasets.
 The below key information about the environment datasets is summarised as follows:
- ABC(Active, Beautiful, Clean) Waters Programme is an initiative developed by the
+- ABC(Active, Beautiful, Clean) Waters Programme is an initiative developed by the
 government to produce the clear rivers, streams and lakes to the community.
- Cash-For-Trash Programme is an initiative by the Public Waster collectors to exchange
+- Cash-For-Trash Programme is an initiative by the Public Waster collectors to exchange
 recyclable items for the currency at the deputed recyclable stations.
- Validation of air quality by measuring the pollutant levels.
- Estimate the effects of climate change and energy. 
+- Validation of air quality by measuring the pollutant levels.
+- Estimate the effects of climate change and energy. 
 
- Validate the electricity generated and its consumption.
- Licensed food establishments.
- Historical weather conditions.
- Solid Waste Management,etc.
-4.1.4 Finance
+- Validate the electricity generated and its consumption.
+- Licensed food establishments.
+- Historical weather conditions.
+- Solid Waste Management,etc.
+
+**4.1.4 Finance**
 In overview, the Singapore financial system is stable with the wide range of accessibility to the
 global markets and well planned financial architecture. Most prominently, Singapore remains hub
 for most of the financial markets in Asia.Further as per the financial datasets, the frequent words in
 Appendix A – Fig 10 and 11 appears to be year, tax, income, etc. and the associated terms in Appendix
 A – Fig 12 refers to assessment, period, income, tax etc. Referring to the frequent words and the
 associated terms, the key points from the datasets are summarised as follows:
- Collection of the taxes and Tax rates.
- Baby Bonus Scheme - The Child Development Co-Savings scheme to diminish the costs
+- Collection of the taxes and Tax rates.
+- Baby Bonus Scheme - The Child Development Co-Savings scheme to diminish the costs
 associated to raise children.
- Baby Bonus Approved Institution is an entity,which provides service into different service
+- Baby Bonus Approved Institution is an entity,which provides service into different service
 categories including child centre.
- Information about Dutry Rate, Exchange Rates, GST registered business, loans, etc. 
+- Information about Dutry Rate, Exchange Rates, GST registered business, loans, etc. 
 
-4.1.5 Health
+**4.1.5 Health**
 As per the financial datasets, the frequent words in Appendix A – Fig 13 and 14 appears to be
 number,singapore,health, etc. and the associated terms in Appendix A – Fig 15 refers to private,
 policy holder, practice, etc. Referring to the frequent words and the associated terms, the key points
 from the datasets are summarised as follows:
- Incidence rate of different type of diseases.
- Claims under Medishield.Medishield Life is a life long insurance programme for the citizens
+- Incidence rate of different type of diseases.
+- Claims under Medishield.Medishield Life is a life long insurance programme for the citizens
 and Permanent residents.
- Information about Eldershield policy holders.ElderShield is a severe disability insurance
+- Information about Eldershield policy holders.ElderShield is a severe disability insurance
 scheme, which provides monthly cash payout to the policy holder for the certain duration.
- Attendance rate at different health care institutions.
- Location of health care institutions.
- Surveys on the health related events.
- List about the health care providers.
- Information about Zika cluster. Zika is a virus caused through the mosquito infection.
- Etc.
-4.1.6 Infrastructure
+- Attendance rate at different health care institutions.
+- Location of health care institutions.
+- Surveys on the health related events.
+- List about the health care providers.
+- Information about Zika cluster. Zika is a virus caused through the mosquito infection.
+- Etc.
+
+**4.1.6 Infrastructure**
 As per the infrastructure category datasets, the frequent words in Appendix A – Fig 16and 17
 appears to be indicative, area, polygon, etc. and the associated terms in Appendix A – Fig 18 refers to
 polygon, boundary, etc. Referring to the frequent words and the associated terms, the key points
 from the datasets are summarised as follows:
- Geographical location of the properties in singapore.
- Government approval on the properties.
- Directory of Government approval, price, booking,stocking and vacancy of the properties. 
+- Geographical location of the properties in singapore.
+- Government approval on the properties.
+- Directory of Government approval, price, booking,stocking and vacancy of the properties. 
 
- JTC incorporated properties.JTC Corporation - the leading real estate company, which plans,
+- JTC incorporated properties.JTC Corporation - the leading real estate company, which plans,
 promotes and develops the industrial landscape.
- Master Plan(MP) - “Master plan is the statutory land use plan, which shows the
+- Master Plan(MP) - “Master plan is the statutory land use plan, which shows the
 permissible land use and the density for the expansion of business in singapore.”
- Control Plans(MP SDCP) - "The Master plan is supported by Special and detailed control
+- Control Plans(MP SDCP) - "The Master plan is supported by Special and detailed control
 plans(SDCP) . The SDCP are development control plans, which include Parks and
 Waterbodies, Landed Housing Areas, Street Block, Envelop Control, Building Height and
 Urban Design plans, published by the competent authority."
- Sample Household Survery,etc. 
+- Sample Household Survery,etc. 
 
-4.1.7 Society
+**4.1.7 Society**
 As per the society category datasets, the frequent words in Appendix A – Fig 19and 20 appears to be
 population, household, survey, etc. and the associated terms in Appendix A – Fig 21 refers to
 censuses, area, distribution, etc. Referring to the frequent words and the associated terms, the key
