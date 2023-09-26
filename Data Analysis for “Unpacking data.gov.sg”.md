@@ -259,3 +259,51 @@ information in the Singapore open data portal.
 
 ![image](https://github.com/jayanth002/Projects/assets/32224793/10e08acc-70b8-476e-9469-7cc0ddf90740)
 
+![image](https://github.com/jayanth002/Projects/assets/32224793/a52fdf6d-46c4-4c86-bdb6-5fca8d912be2)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/3d3fddbc-7767-4c1e-855b-f81aac32ac70)
+
+
+**Finance**
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/7e69ff5c-fa0f-4347-b134-2e580cec743b)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/33f6f891-0574-4e08-b4aa-fbea8f3ae3d9)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/fd51be5c-a303-41af-9db8-2536346d5586)
+
+**Health**
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/35598447-d8da-468f-8cad-461388739634)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/83f971f7-4fda-4fd3-ad57-725929caf857)
+
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/c432b162-21b7-41b8-98aa-cce29e5b6b80)
+
+
+**6.2 Appendix B – List of figures about the statistics of individual sub elements for 9 categories**
+
+**Managed By (Sub element)**
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/f1a4ce41-6780-433d-afbd-70f264a1eb8f)
+
+
+**Coverage (Sub element)**
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/2ba2c1a3-e05c-4c0a-aedd-563c02c419fd)
+
+
+**Frequency (Sub element)**
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/b94284c5-2643-4ff4-8dc4-fa2124c6ebcf)
+
+
+**Source (Sub element)**
+
+![image](https://github.com/jayanth002/Projects/assets/32224793/d81e74fe-7843-49ff-a148-bc39469a2e49)
+
