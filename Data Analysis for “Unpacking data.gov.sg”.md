@@ -172,45 +172,45 @@ As per the society category datasets, the frequent words in Appendix A – Fig 1
 population, household, survey, etc. and the associated terms in Appendix A – Fig 21 refers to
 censuses, area, distribution, etc. Referring to the frequent words and the associated terms, the key
 points from the datasets are summarised as follows:
- Population, birth and death rate
- Annulment of marriage
- Average monthly houshold expenditure
- Average monthly household income.
- Recreation centers in Singapore.
- Marriage and divorce rate.
- Median age group.
- Infringement and detention.
- Resident households.
- Resident population aged 15 years and above.
- Resident students.
- Workforce and unemployment rate.
- Singapore Residents.
- Etc. 
+- Population, birth and death rate
+- Annulment of marriage
+- Average monthly houshold expenditure
+- Average monthly household income.
+- Recreation centers in Singapore.
+- Marriage and divorce rate.
+- Median age group.
+- Infringement and detention.
+- Resident households.
+- Resident population aged 15 years and above.
+- Resident students.
+- Workforce and unemployment rate.
+- Singapore Residents.
+- Etc. 
 
-4.1.8 Technology
+**4.1.8 Technology**
 As per the technology category datasets, the frequent words in Appendix A – Fig 22and 23 appears
 to be infocomm,statistics,survey, etc. and the associated terms in Appendix A – Fig 24 refers to
 survey, individual, research, etc. Referring to the frequent words and the associated terms, the key
 points from the datasets are summarised as follows:
- 3G mobile services
- Average monthly household electricity consumption
- Broadband and Mobile data usage
- Computer accessibility
- Scope of Research and Development
- Revenue, expenditure, employment in infocomm industry,etc. 
+- 3G mobile services
+- Average monthly household electricity consumption
+- Broadband and Mobile data usage
+- Computer accessibility
+- Scope of Research and Development
+- Revenue, expenditure, employment in infocomm industry,etc. 
 
-4.1.9 Transport
+**4.1.9 Transport**
 As per the transport category datasets, the frequent words in Appendix A – Fig 25 and 26 appears to
 be vehicles,registered,road etc. and the associated terms in Appendix A – Fig 27 refers to goods, fuel, tax etc. Referring to the frequent words and the associated terms, the key points from the datasets
 are summarised as follows:
- Distribution of vehicles.
- Vehicle parking availability and the rates
- Road and Air accidents reports
- Structure of transport fares
- Rail, road and cycling path layout
- Distribution of road,rail and air ridership 
+- Distribution of vehicles.
+- Vehicle parking availability and the rates
+- Road and Air accidents reports
+- Structure of transport fares
+- Rail, road and cycling path layout
+- Distribution of road,rail and air ridership 
 
-4.2 Consolidated Data – Sub element
+**4.2 Consolidated Data – Sub element**
 The extracted subelements in each of the 9 categories are as follows: managed by, coverage, frequency,
 source, format and datasize.Those subelements provides required reference information to the
 respective datasets. Further, the statistics on frequency of the subelements has been collected.
@@ -226,7 +226,7 @@ of data updation remains to be annually. Lastly, with reference to Appendix B - 
 the dataset “Information on Corporate Entities,” regulated by Accounting and Corporate Regulatory
 Authority, reamins to be highest with abot 760 MB of data. 
 
-5 Conclusion
+**5 Conclusion**
 In summary, this report covered most of the research questions pertinent to the Singapore
 Government Open Data Portal. In this process, the collected data has been visualised for the ease of
 representation.Additionally, the key points of the datasets for each category have been depicted.
@@ -235,10 +235,10 @@ research question due to the complexity of extracting the particular element. In
 data have been protrayed with statistics for the interpretation about the organisation of the
 information in the Singapore open data portal. 
 
-6 Appendices
-6.1 Appendix A – List of figures about the statistics of frequency of the
-words and the associated terms
-Economy 
+**6 Appendices**
+**6.1 Appendix A – List of figures about the statistics of frequency of the words and the associated terms**
+
+**Economy **
 
 ![image](https://github.com/jayanth002/Projects/assets/32224793/420395aa-2813-47c0-844c-04b3704b1292)
 
