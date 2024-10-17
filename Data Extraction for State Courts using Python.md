@@ -1,4 +1,4 @@
-# Data Extraction for State Courts using Python - Research Project under Prof. Khoo at NTU University..
+# Data Extraction for State Courts using Python - Research Project under Prof. Khoo at NTU University.
 
 **Project Objective:**
 The primary objective of this project was to automate the process of extracting and organizing legal case data from state court websites using Python. The project aimed to streamline the data collection process for legal research and analysis.
